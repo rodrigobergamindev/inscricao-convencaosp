@@ -24,7 +24,7 @@ export default function Header() {
     const classes = useStyles();
     const urlForm = 'https://forms.gle/QiqukqJmE5A8UpKu6'
     const urlWhatsApp = 'https://api.whatsapp.com/send?phone=5511974394393&text=Ol%C3%A1%2C%20Paz%20do%20Senhor!%20Poderia%20me%20ajudar%20com%20a%20minha%20inscri%C3%A7%C3%A3o%3F%20(CURSO%20DE%20PASTORES%202021)'
-    const urlEdital = 'https://drive.google.com/file/d/14lAKvnyN_vIiOMrXPv19oAAzcVTYc6ph/view?usp=sharing'
+    const urlEdital = 'https://drive.google.com/file/d/1hIHshKwT6EIGlXwYN3qhwUbr6vSXrMKm/view?usp=sharing'
 
 
     return (
