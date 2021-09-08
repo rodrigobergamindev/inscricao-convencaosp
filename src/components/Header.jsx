@@ -22,9 +22,9 @@ const useStyles = makeStyles({
 
 export default function Header() {
     const classes = useStyles();
-    const urlForm = 'https://forms.gle/QiqukqJmE5A8UpKu6'
-    const urlWhatsApp = 'https://api.whatsapp.com/send?phone=5511974394393&text=Ol%C3%A1%2C%20Paz%20do%20Senhor!%20Poderia%20me%20ajudar%20com%20a%20minha%20inscri%C3%A7%C3%A3o%3F%20(CURSO%20DE%20PASTORES%202021)'
-    const urlEdital = 'https://drive.google.com/file/d/1kpc05HC3BN3hXZgjtH0eddsy3BDO3vVd/view?usp=sharing'
+    const urlForm = 'https://forms.gle/j1EPkG5W21umyDh36'
+    const urlWhatsApp = 'https://api.whatsapp.com/send?phone=5511974394393&text=Ol%C3%A1%2C%20Paz%20do%20Senhor!%20Poderia%20me%20ajudar%20com%20a%20minha%20inscri%C3%A7%C3%A3o%3F%20(CURSO%20DE%20OFICIAIS%202021)'
+    const urlEdital = 'https://drive.google.com/file/d/1WwSNKIZcqd4WxQ1Ti3aagbGUTupD6RAW/view?usp=sharing'
 
 
     return (
@@ -35,7 +35,7 @@ export default function Header() {
                 <div>
 
                 <h1>CONVENÇÃO OBPC SP</h1>
-                <p>SEMINÁRIO DE MINISTROS - 2021/2022</p>
+                <p>SEMINÁRIO DE OFICIAIS - 2021/2022</p>
 
                 <ul>
                     <li><a href={urlEdital} target="_blank"><Button text={"EDITAL"} icon={<MenuBookIcon className={classes.root}></MenuBookIcon>}></Button></a></li>
