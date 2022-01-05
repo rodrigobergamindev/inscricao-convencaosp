@@ -9,6 +9,48 @@ const Container = styled.div`
     width: 100%;
     background-color: transparent;
 
+    @media only screen and (max-width: 600px) {
+        padding: 1rem;
+}
+    
+`
+
+const ContainerSup = styled.div`
+
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+
+    grid-gap: 60px;
+
+    @media only screen and (max-width: 600px) {
+        grid-template-columns: repeat(1,1fr);
+}
+`
+
+const ContainerContent = styled.div`
+    
+    border-radius: 7px;
+    margin-top: 2rem;
+    height: 100%;
+
+    ul {
+        margin: 0;
+        padding:0;
+        
+    }
+
+    li {
+        padding: 0.5rem;
+        border: 1px solid #A0AEC0;
+    }
+
+    h2 {
+        font-size: 1.2rem;
+        background-color:#25D366;
+        padding: 0.75rem;
+        border-top-left-radius: 7px;
+        border-top-right-radius: 7px;
+    }
 `
 
 const ContainerHeader = styled(Container)`  
@@ -16,8 +58,8 @@ const ContainerHeader = styled(Container)`
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-
-    margin-top: 80px;
+    
+    
     font-size: 1.1em;
     color:white;
     text-align: center;
@@ -25,41 +67,13 @@ const ContainerHeader = styled(Container)`
     flex-direction:column;
 
     p {
-        font-size: 0.76em;
+        font-size: 0.9em;
     }
 
     h1 {
         font-weight: 400;
     }
 
-    ul {
-        margin-top: 20px;
-    }
-    li {
-        padding-top: 20px;
-        background-color: transparent,
-        border: 1px solid white,
-        border-radius: 50,
-        color: white,
-        height: 48,
-        padding: 30px,
-        width: 350,
-        font-family: Roboto,
-        font-weight: 300,
-        fontSize: 1.09em
-    }
-
-    h7 {
-        margin-bottom: 30px;
-        color: white;
-    }
-
-    footer {
-        margin-top: 40px;
-        font-size: 0.6em;
-        font-family: 'Roboto', serif;
-        color: white;
-    }
 
     a:visited {
         color: white;
@@ -68,4 +82,4 @@ const ContainerHeader = styled(Container)`
 `
 
 
-export {Container, ContainerHeader}
+export {Container, ContainerHeader, ContainerContent, ContainerSup}
