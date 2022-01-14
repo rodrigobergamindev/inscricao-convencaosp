@@ -114,6 +114,7 @@ export default function Header() {
                   <li>WESLEY RAFAEL DOS SANTOS</li>
                   <li>IRANILSON NELLO DE PALMA</li>
                   <li>WESLLEY ALMEIDA ALVES</li>
+                  <li>CRISTIANO MARCOS DE ARAÚJO VICENTE</li>
                   <li>RENAN RODRIGUES DE SANTANA FERREIRA</li>
                   </ul>
                 </ContainerContent>
