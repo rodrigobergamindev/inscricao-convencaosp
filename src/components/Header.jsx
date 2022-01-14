@@ -41,22 +41,27 @@ export default function Header() {
                 <h2>CANDIDATOS APROVADOS</h2>
                   <ul>
                   <li>ADEMIR ALVES DA CUNHA</li>
+                  <li>ADILSON DE SOUZA SILVA</li>
                   <li>ALAN CARLOS RODRIGUES</li>
+                  <li>ANDERSON CLAITON COCENZO DE CARVALHO</li>
                   <li>ANDRÉ CARVALHO TOSTES</li>
                   <li>ANTÔNIO DA CONCEIÇÃO REQUENA JUNIOR</li>
+                  <li>ANTONIO DO NASCIMENTO</li>
+                  <li>ANTONIO GOMES CALADO</li>
+                  <li>BRUNO MANOEL CASATTI FERREIRA</li>
                   <li>BRUNO MARTINS CLARA DO NASCIMENTO</li>
+                  <li>CARLOS ALBERTO BALIERO</li>
                   <li>CÁSSIO BARBOSA DA SILVA</li>
                   <li>CLAUDIA CRISTINA SILVA DOS REIS</li>
                   <li>CLEBERSON DOS ANJOS MARINHO</li>
+                  <li>DAVID DE JESUS FERREIRA</li>
                   <li>DEUSDETE JUNIOR DIAS SANTOS</li>
                   <li>DIEGO MESSIAS POPST</li>
                   <li>DIEGO PATRICK MOLINA LOREDO</li>
                   <li>DIÓGENES FELIX DOS SANTOS</li>
                   <li>EDIMA CARNEIRO DA SILVA</li>
                   <li>EDSON PEREIRA</li>
-                  <li>ELIAS MOISES DA SILVA</li>
                   <li>ELIAS TERTO LEANDRO JUNIOR</li>
-                  <li>ELISEU GROTO JUNIOR</li>
                   <li>ELIVELTON SILVEIRA SOUZA</li>
                   <li>EMERSON DE LIMA BEZERRA</li>
                   <li>EVANILDO ROSA DA SILVA</li>
@@ -65,15 +70,17 @@ export default function Header() {
                   <li>FRANKLIN EVERTON DO ESPIRITO SANTO</li>
                   <li>GILIARD JOSE ANDRADE DA SILVA</li>
                   <li>HARLEN FERRARI RIBEIRO</li>
-                  <li>IRANILSON MELLO DA PALMA</li>
                   <li>ISRAEL XAVIER DA SILVA MENDES</li>
+                  <li>IVANILDO ALVES DA SILVA</li>
                   <li>JAN ALVES DAMACENO</li>
                   <li>JANISSON ANTONIO DE SOUZA</li>
+                  <li>JEFERSON COUTO DOS SANTOS</li>
                   <li>JEFFERSON SOLER DE SOUZA</li>
                   <li>JOSE ALVES DE FRANÇA</li>
                   <li>JOSE DA PENHA SILVA</li>
                   <li>JOSÉ FERNANDO CORREIA MOREIRA</li>
                   <li>JOSÉ LUCAS VIEIRA</li>
+                  <li>JOSE WILSON DA SILVA PEREIRA</li>
                   <li>JOSIEL DOS SANTOS</li>
                   <li>JOVELINO FERREIRA</li>
                   <li>LEANDRO AURELIANO DA SILVA</li>
@@ -87,14 +94,17 @@ export default function Header() {
                   <li>OSVALDO FIGUEIREDO SOUSA</li>
                   <li>PATRIC PINHEIRO</li>
                   <li>PEDRO LUIZ PEREIRA</li>
-                  <li>RAQUEL MOREIRA CAMARGO DA FONSECA</li>
                   <li>REGINALDO DE MIRANDA</li>
                   <li>RENATO EVARISTO DOS SANTOS</li>
+                  <li>RENATO MONTEIRO MOREIRA</li>
                   <li>RICARDO DIONIZIO DE SOUZA</li>
                   <li>RICARDO FERNANDES GÓES</li>
                   <li>RICARDO FERREIRA DINIZ DO NASCIMENTO</li>
                   <li>ROBERTO FERREIRA GOMES</li>
                   <li>ROBERTO LEAL PIRES MOTA</li>
+                  <li>RODOLPHO TUXEN</li>
+                  <li>RODRIGO AGUIAR LEÃO</li>
+                  <li>SAMUEL DE SOUZA PEREIRA</li>
                   <li>SAMUEL GARCIA DE JESUS</li>
                   <li>SAULO SALES DA SILVA</li>
                   <li>VALDIR RODRIGUES DA SILVA</li>
@@ -102,41 +112,6 @@ export default function Header() {
                   <li>WAGNER DA SILVA</li>
                   <li>WALDENILSON DA SILVA</li>
                   <li>WESLEY RAFAEL DOS SANTOS</li>
-                  </ul>
-                </ContainerContent>
-
-                <ContainerContent>
-                <h2 style={{backgroundColor: '#FFD300', color: '#1e272e'}}>CANDIDATOS QUE DEVEM ENTRAR EM CONTATO COM A COMISSÃO DE ÉTICA</h2>
-                  <ul>
-                  <li>ADILSON DE SOUZA SILVA</li>
-                  <li>ANDERSON CLAITON COCENZO DE CARVALHO</li>
-                  <li>ANDRE AUGUSTO DA SILVA G. DOS SANTOS</li>
-                  <li>ANDRÉ LUIZ SAMPAIO</li>
-                  <li>ANTONIO DO NASCIMENTO</li>
-                  <li>ANTONIO GOMES CALADO</li>
-                  <li>BRUNO MANOEL CASATTI FERREIRA</li>
-                  <li>CARLOS ALBERTO BALIERO</li>
-                  <li>CICERO SANTOS DE LIMA</li>
-                  <li>CRISTIANO MARCOS DE ARAUJO VICENTE</li>
-                  <li>CRISTIANO OLIVEIRA</li>
-                  <li>DAVID DE JESUS FERREIRA</li>
-                  <li>DOUGLAS DA SILVA MACEDO</li>
-                  <li>EDJALMA FARIAS DE LIMA</li>
-                  <li>EDMAR NUNES DOURADO</li>
-                  <li>IVANILDO ALVES DA SILVA</li>
-                  <li>JEFERSON COUTO DOS SANTOS</li>
-                  <li>JOSE WILSON DA SILVA PEREIRA</li>
-                  <li>JOSÉ WILSON DA SILVA PEREIRA</li>
-                  <li>LUCAS VIEIRA DE OLIVEIRA</li>
-                  <li>LUCAS WILSON GONÇALVES LIMA</li>
-                  <li>MARINNA GLEICY GONÇALVES BARBOSA</li>
-                  <li>RENATO MONTEIRO MOREIRA</li>
-                  <li>RODOLPHO TUXEN</li>
-                  <li>RODRIGO AGUIAR LEÃO</li>
-                  <li>ROGÉRIO BATISTA DE OLIVEIRA</li>
-                  <li>RUBENS ALVES DE SOUZA</li>
-                  <li>SAMUEL DE SOUZA PEREIRA</li>
-                  <li>SIRLENE GOMES DE OLIVEIRA TRINDADE</li>
                   <li>WESLLEY ALMEIDA ALVES</li>
                   </ul>
                 </ContainerContent>
