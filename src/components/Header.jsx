@@ -113,6 +113,7 @@ export default function Header() {
                   <li>WALDENILSON DA SILVA</li>
                   <li>WESLEY RAFAEL DOS SANTOS</li>
                   <li>WESLLEY ALMEIDA ALVES</li>
+                  <li>RENAN RODRIGUES DE SANTANA FERREIRA</li>
                   </ul>
                 </ContainerContent>
 
